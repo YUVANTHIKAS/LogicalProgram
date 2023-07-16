@@ -32,7 +32,7 @@ namespace LogicalProgram
                     StopWatchs.GetTime();
                     break;
                 case 7:
-                    VendingMeachine.GetAmount();
+                    VendingMachine.GetAmount();
                     break;
                 case 8:
                     DayOfDate.getDay();
