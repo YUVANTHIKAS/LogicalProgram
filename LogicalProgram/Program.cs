@@ -35,7 +35,7 @@ namespace LogicalProgram
                     VendingMachine.GetAmount();
                     break;
                 case 8:
-                    DayOfDate.getDay();
+                    DayOfDate.GetAmount();
                     break;
                 case 9:
                     Temperature.ConvertTemp();
