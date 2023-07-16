@@ -29,7 +29,7 @@ namespace LogicalProgram
                     Coupon.GetCoupon();
                     break;
                 case 6:
-                    Stopwatchs.GetTime();
+                    StopWatchs.GetTime();
                     break;
                 case 7:
                     VendingMeachine.GetAmount();
